@@ -1,0 +1,39 @@
+*{
+    color: white;
+    background-color: black;
+    padding: 10px 20px ;
+}
+.heading{
+    font-size: xx-large;
+    float: left;
+    clear: right;
+    padding: 0 30px;
+    width: 20%;
+}
+.h-contents {
+    width: 50%;
+    font-size: 15px;
+    word-spacing: 30px;
+    float: left;
+    clear: right;
+    text-transform: uppercase;
+}
+.contents{
+    float: left;
+    width: 30%;
+}
+.content-heading{
+    font-size: 30px;
+    font-weight: 700;
+    padding-bottom: 0;
+}
+.h1{
+    padding-top: 0;
+    font-size: 15px;
+    line-height: 1;
+    font-weight: 200;
+    word-spacing: 5px;
+}
+.image{
+   background: url("main-image.jpg");
+}
